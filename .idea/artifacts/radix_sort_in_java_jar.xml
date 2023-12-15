@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="radix_sort_in_java:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/radix_sort_in_java_jar</output-path>
+    <root id="archive" name="radix_sort_in_java.jar">
+      <element id="module-output" name="radix_sort_in_java" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../chrome download/opencsv-3.8.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
